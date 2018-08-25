@@ -1,6 +1,6 @@
 ## twitter analyzer
 
-Script get twitter analyzer.
+Script twitter analyzer.
 
 # Run
 
